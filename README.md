@@ -30,7 +30,6 @@ Promo trends over months
 
 Impact of competition distance and timing
 
-📸 Insert data_canvas_insights.png here for snapshots
 
 ✨ Key Outcomes
 Automated pipeline creation with Data Fusion
